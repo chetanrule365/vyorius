@@ -30,3 +30,9 @@ button{
 .App{
   padding: 30px 100px;
 }
+
+@media (max-width: 800px){
+  .App{
+    padding: 30px;
+  }
+}
