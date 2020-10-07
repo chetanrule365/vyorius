@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vyorius/static/css/main.a8b0ac12.chunk.css",
+    "main.js": "/vyorius/static/js/main.8f91a9ca.chunk.js",
+    "main.js.map": "/vyorius/static/js/main.8f91a9ca.chunk.js.map",
+    "runtime-main.js": "/vyorius/static/js/runtime-main.513f1a2a.js",
+    "runtime-main.js.map": "/vyorius/static/js/runtime-main.513f1a2a.js.map",
+    "static/js/2.ea92a513.chunk.js": "/vyorius/static/js/2.ea92a513.chunk.js",
+    "static/js/2.ea92a513.chunk.js.map": "/vyorius/static/js/2.ea92a513.chunk.js.map",
+    "index.html": "/vyorius/index.html",
+    "precache-manifest.11bf5ec1a95e49695a3497a85c05c0d0.js": "/vyorius/precache-manifest.11bf5ec1a95e49695a3497a85c05c0d0.js",
+    "service-worker.js": "/vyorius/service-worker.js",
+    "static/css/main.a8b0ac12.chunk.css.map": "/vyorius/static/css/main.a8b0ac12.chunk.css.map",
+    "static/js/2.ea92a513.chunk.js.LICENSE.txt": "/vyorius/static/js/2.ea92a513.chunk.js.LICENSE.txt",
+    "static/media/home.png": "/vyorius/static/media/home.033e21a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.513f1a2a.js",
+    "static/js/2.ea92a513.chunk.js",
+    "static/css/main.a8b0ac12.chunk.css",
+    "static/js/main.8f91a9ca.chunk.js"
+  ]
+}
