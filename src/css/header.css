@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header ul{
+    display: flex;
+    align-items: center;
+}
+header ul li{
+    list-style: none;
+    margin-right: 30px;
+    font-weight: 700;
+    text-decoration: none;
+}
+header ul li a{ 
+    text-decoration: none;
+    color: rgb(75, 75, 75);
+}
